@@ -15,6 +15,7 @@ This challenge encourages allows us to explore the scientific potential of Indig
 This challenge supports the development of accurate, hyper-local weather predictions where traditional models often fail and most importantly validates indigenous methods that helps bridge scientific and cultural knowledge systems, giving agency back to rural communities.
 
 This challenge was sponsored by the Responsible Artificial Intelligence (AI) Lab (RAIL) and the French Embassy in Ghana.
+
 <img width="687" height="360" alt="image" src="https://github.com/user-attachments/assets/f7330232-93c4-4ce2-a181-a5f4d7004744" />
 
 ### Data
