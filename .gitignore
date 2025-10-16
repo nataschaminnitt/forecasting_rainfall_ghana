@@ -14,6 +14,8 @@
 
 # local data & models
 Indigenous_Weather_Forecasting-Starter_Notebook.ipynb
+Indigenous_Weather_Forecasting_eda.ipynb
 SampleSubmission.csv
 submission_baseline.csv
+submission_cat.csv
 *.json
